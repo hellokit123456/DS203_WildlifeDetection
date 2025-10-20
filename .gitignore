@@ -1,0 +1,11 @@
+__pycache__/
+*.pkl
+*.csv
+*.jpg
+*.png
+*.mp4
+data/
+artifacts/
+results/
+.DS_Store
+.env
